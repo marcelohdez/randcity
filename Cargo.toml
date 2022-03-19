@@ -1,0 +1,8 @@
+[package]
+name = "randcity"
+version = "0.1.0"
+author = "Marcelo Hernandez"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
