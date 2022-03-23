@@ -2,7 +2,7 @@
 A simple command line program which creates a randomized ascii art city skape.
 I coded it in about an hour or two to learn some Rust.
 
-As this was a one-off project, it is archived.
+**As this was a one-off project, it is archived.**
 
 <img alt="Screenshot of a terminal window showing the randcity program's output, being some ascii buildings and stars" src="https://user-images.githubusercontent.com/76508651/159110458-b14e5bb0-2f88-458f-88a5-abb3eeb3cb9e.png" style="width:40rem">
 <img alt="Another screenshot of a terminal window showing the randcity program's output" src="https://user-images.githubusercontent.com/76508651/159110483-8056c38e-bf75-4149-bd8e-966a96d68a83.png" style="width:40rem">
