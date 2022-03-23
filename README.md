@@ -4,8 +4,8 @@ It was created in about an hour or two for me to learn Rust.
 
 **As this was a one-off project, it is archived.**
 
-<img alt="Screenshot of a terminal window showing the randcity program's output, being some ascii buildings and stars" src="https://user-images.githubusercontent.com/76508651/159110458-b14e5bb0-2f88-458f-88a5-abb3eeb3cb9e.png" style="width:40rem">
-<img alt="Another screenshot of a terminal window showing the randcity program's output" src="https://user-images.githubusercontent.com/76508651/159110483-8056c38e-bf75-4149-bd8e-966a96d68a83.png" style="width:40rem">
+<img width="794" alt="Screen Shot 2022-03-23 at 2 48 46 AM" src="https://user-images.githubusercontent.com/76508651/159640232-1088c7d2-53a2-44d5-ba42-9fd4f783e08b.png" style="width:40rem">
+<img width="794" alt="Screen Shot 2022-03-23 at 2 50 55 AM" src="https://user-images.githubusercontent.com/76508651/159640300-48ac0e2e-cbc7-47cd-b9fb-82ed646cd83a.png" style="width:40rem">
 
 ## Running
 In order to run the program you will need
