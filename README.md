@@ -12,7 +12,7 @@ In order to run either program you will need [Rust](https://www.rust-lang.org/le
 installed.
 
 Then you may clone this repo and cd into the root 
-directory (above the ```src``` folder) in your desired terminal and run ```cargo run 24 24```.
+directory (above the `src` folder) in your desired terminal and run `cargo run 24 24`.
 The two 24's can be changed to any number you like, they represent the amount of buildings to generate
 and their max height respectively. An amount too high to fit in the terminal window's width will produce
 funky, not-so-good-looking results.
